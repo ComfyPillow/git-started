@@ -7,4 +7,4 @@ Nice to meet you! I look forward to learning from you throughout the quarter!
 
 - George
 
-URL : https://students.washington.edu/gngcp/343Code/git-started/
+URL : https://students.washington.edu/gngcp/info343/git-started/
